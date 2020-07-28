@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/limhenry/limhenry/blob/master/shrug.png" alt="shurgging" width=380px height=380px />
+<img align="right" src="https://github.com/limhenry/limhenry/blob/master/shrug.png" alt="shurgging" width=350px height=350px />
 
 ### Hi, I'm Henry Lim 林亨力 👋
 
