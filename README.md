@@ -3,10 +3,13 @@
 ### Hi, I'm Henry Lim 林亨力 👋
 
 - 🇲🇾  Malaysian living in Bangkok, Thailand
-- 👨‍🏫  [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-henry_lim) in Web Technologies
-- ✨  Creator of the [Remote for Slides](https://limhenry.xyz/slides)
-- ❤️ Progressive Web Apps, Chrome DevTools, and Web Capabilities (Project Fugu)
-- 🐦 Follow me on Twitter: [@henrylim96](https://twitter.com/henrylim96) and [@remoteforslides](https://twitter.com/remoteforslides)
+- 👨‍🏫  [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-henry-lim) in Web Technologies
+- ✨  Developer of [COVIDNOW.moh.gov.my](https://covidnow.moh.gov.my)
+- ✨  Creator of [Malaysia Vaccine Tracker Twitter Bot](https://twitter.com/MYVaccineCount)
+- ✨  Creator of [Remote for Slides](https://limhenry.xyz/slides)
+- ❤️  Progressive Web Apps, Chrome DevTools, and Web Capabilities (Project Fugu)
+- 🐦  Follow me on Twitter: [@henrylim96](https://twitter.com/henrylim96) and [@remoteforslides](https://twitter.com/remoteforslides)
+- 🐱  Learn more about me at [limhenry.xyz](https://limhenry.xyz)
 
 #### Talks
 - [What's new in Web 2020](https://speakerdeck.com/limhenry/whats-new-in-web-2020) - web.dev LIVE Kuala Lumpur - July 18, 2020
