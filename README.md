@@ -2,13 +2,13 @@
 
 ### Hi, I'm Henry Lim 林亨力 👋
 
-- 🇲🇾  Malaysian ~~living in Bangkok, Thailand~~
+- 🇲🇾  Malaysian [living in Berlin, Germany](https://twitter.com/henrylim96/status/1511707662630670342)
 - 👨‍🏫  [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-henry-lim) in Web Technologies
 - ✨  Developer of [COVIDNOW.moh.gov.my](https://covidnow.moh.gov.my)
 - ✨  Creator of [Malaysia Vaccine Tracker Twitter Bot](https://twitter.com/MYVaccineCount)
 - ✨  Creator of [Remote for Slides](https://limhenry.xyz/slides)
 - ❤️  Progressive Web Apps, Chrome DevTools, and Web Capabilities (Project Fugu)
-- 🐦  Follow me on Twitter: [@henrylim96](https://twitter.com/henrylim96) and [@remoteforslides](https://twitter.com/remoteforslides)
+- 🐦  Follow me on Twitter: [@henrylim96](https://twitter.com/henrylim96), [@remoteforslides](https://twitter.com/remoteforslides) and [@MYVaccineCount](https://twitter.com/MYVaccineCount)
 - 🐱  Learn more about me at [limhenry.xyz](https://limhenry.xyz)
 
 #### Talks
