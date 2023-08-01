@@ -2,7 +2,7 @@
 
 ### Hi, I'm Henry Lim 林亨力 👋
 
-- 🇲🇾  Malaysian [living in Berlin, Germany](https://twitter.com/henrylim96/status/1511707662630670342)
+- 🇲🇾  Malaysian [living in Hamburg, Germany](https://twitter.com/henrylim96/status/1511707662630670342)
 - 👨‍🏫  [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-henry-lim) in Web Technologies
 - ✨  Developer of [COVIDNOW.moh.gov.my](https://covidnow.moh.gov.my)
 - ✨  Creator of [Malaysia Vaccine Tracker Twitter Bot](https://twitter.com/MYVaccineCount)
